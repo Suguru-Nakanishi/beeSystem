@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context reloadable="true">
+<Resource
+ name="jdbc/beeSystem"
+ auth="Container"
+ type="javax.sql.DataSource"
+ driverClassName="oracle.jdbc.driver.OracleDriver"
+ url="jdbc:oracle:thin:@localhost:1521:xe"
+ username="nakanishi	"
+ password="nakanishi"
+ />
+ </Context>
